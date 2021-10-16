@@ -8,6 +8,10 @@ Name: Shreya Rajendran
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+Screenshot of cloned repo:
+
+![image](https://user-images.githubusercontent.com/90438521/137572037-6436e14c-94b0-4ac8-93dd-34cca2ebf35f.png)
+
 
 
 ## Description
