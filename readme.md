@@ -8,9 +8,32 @@ Name: Shreya Rajendran
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
-Screenshot of cloned repo:
+
+### Activity 1 - Screenshot of cloned repo:
 
 ![image](https://user-images.githubusercontent.com/90438521/137572037-6436e14c-94b0-4ac8-93dd-34cca2ebf35f.png)
+
+
+### Activity 2-5 - Screenshot of Home page:
+
+![index page](https://user-images.githubusercontent.com/90438521/137638685-4c3f46e7-ae34-4c32-a4c4-b005907da344.PNG)
+
+
+### Activity 2-5 - Screenshot of Results page Form:
+
+![search page form](https://user-images.githubusercontent.com/90438521/137638714-c3a03e7d-897e-4f53-9a5a-537f57aed22e.PNG)
+
+
+### Activity 2-5 - Screenshot of Results page Table:
+
+![search table](https://user-images.githubusercontent.com/90438521/137638739-1514fa89-441a-4557-83d0-5c542deeb0bb.PNG)
+
+
+### Activity 6 - Comparison of old UI and new styled UI:
+
+In the old table pre-styling, the columns weren't clearly indicated by lines so, it was not very easy to read. However, in the new table, colors matching the overall scheme of the page have been used to clearly show borders and the header row with appropriate font color having a good contrast with the background color. Additionally, making the header row position sticky is also very helpful for scrolling through a large number of results, thus improving the UI/UX.
+
+
 
 
 
